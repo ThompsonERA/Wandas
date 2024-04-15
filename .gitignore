@@ -1,0 +1,7 @@
+/node_modules
+/.next
+build-manifest.json
+pages-manifest.json
+webpack.js 
+index.js 
+/dist
